@@ -1,0 +1,10 @@
+@charset "UTF-8";
+body {
+  margin: 0;
+  background: #eaeef6;
+  font-family: system-ui, sans-serif;
+}
+.main-container {
+  margin-left: 140px; /* Adjust based on navbar width + margin */
+  padding-top: 20px;
+}
